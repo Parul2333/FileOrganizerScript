@@ -19,8 +19,11 @@ A Python GUI application that automatically organizes files in a selected direct
 The File Organizer Script is a Linux-based desktop utility developed using Python and Tkinter that automates the organization of files into categorized folders such as Images, Documents, Music, and Videos. It simplifies file management, maintains detailed activity logs, and offers a clean, user-friendly graphical interface for efficient system usage.
 <br><br>
 <p align="center">
-  <img src="FileOrganizerGUI/TestFolder/img2.jpg" alt="Description" width="300"/>
+  <img src="FileOrganizerGUI/TestFolder/img2.jpg" alt="Description" width="300"/> <br><br>
+ <img src="FileOrganizerGUI/TestFolder/img1.jpg" alt="Description" width="300"/>
 </p>
+
+
 <br>
   
 # ✨ Features
@@ -42,9 +45,10 @@ The File Organizer Script is a Linux-based desktop utility developed using Pytho
 <br>
 
 # 🛠️ Technical Implementation
-
+Implements a layered architecture using Python's Tkinter for GUI, OS and shutil for file operations, and structured logging to persist file organization metadata.
+<br>
 ## System Architecture
-<br><br>
+<br>
 <p align="center">
   <img src="FileOrganizerGUI/TestFolder/Sequence diagram.png" alt="Description" width="400" height="300"/>
 </p>
@@ -66,11 +70,11 @@ The File Organizer Script is a Linux-based desktop utility developed using Pytho
 # 📝 Project Report
 Our detailed project report covers:
 
-System architecture
-Implementation details
-Testing methodology
-Performance analysis
-Future improvements
+- System architecture
+- Implementation details
+- Testing methodology
+- Performance analysis
+- Future improvements
 
 <br>
 
