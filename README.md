@@ -45,7 +45,7 @@ The File Organizer Script is a Linux-based desktop utility developed using Pytho
 
 ## System Architecture
 <p align="center">
-  <img src="FileOrganizerGUI/TestFolder/Sequence diagram.png" alt="Description" width="300" height="100"/>
+  <img src="FileOrganizerGUI/TestFolder/Sequence diagram.png" alt="Description" width="300" height="500"/>
 </p>
 
 # 🎓 Learning Outcomes
